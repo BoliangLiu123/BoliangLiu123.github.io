@@ -16,7 +16,7 @@ github: laiyao1
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: laiyao1
+#linkedin: laiyao1
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
@@ -34,34 +34,34 @@ portrait_url: /assets/images/photos/profile.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: The University of Hong Kong
-  logo: /assets/images/badges/hku.jpg
+- name: Queen Mary University of London
+  logo: /assets/images/badges/QM.jpg
   position: Ph.D. in Computer Science
   date: Sep. 2021 - Jul. 2025
 
-- name: Tsinghua University
-  logo: /assets/images/badges/thu.png
+- name: Wuhan University
+  logo: /assets/images/badges/WHU.png
   position: M.Eng. in Software Engineering
   date: Sep. 2017 - Jul. 2020
 
-- name: Fudan University
-  logo: /assets/images/badges/fudan.png
-  position: B.Eng. in Electronics Engineering
-  date: Sep. 2013 - Jul. 2017
 
 experience:
-- name: The University of Texas at Austin
-  logo: /assets/images/badges/utaustin.png
-  position: Visiting Research Student
-  date: Feb. 2024 - Jul. 2024
+- name: Great Bay University
+  logo: /assets/images/badges/GBU.png
+  position: Assistant Professor
+  date: Feb. 2024 - now
 
+- name: Shenzhen University
+  logo: /assets/images/badges/SZU.png
+  position: Postdoctoral researcher
+  date: Sep. 2013 - Jul. 2017
 
 research:
-- name: Human activity recognition
+- name: Human activity recognition: identifying the specific movement or action of a person based on the integration of various sensor data and machine learning techniques.
   date: 
-- name: Wireless sensing
+- name: Wireless sensing: monitoring conditions and changes of targets and environments via various wireless techniques including WiFi, sound, Radar, Lidar, etc.
   date: 
-- name: Edge intelligence 
+- name: Edge intelligence: a combination of AI and Edge Computing that enables the deployment of machine learning algorithms to the edge device by using model compression, model partition, conditional computation, etc.
   date: 
-- name: Multimodal fusion
+- name: Multimodal fusion: exploring suitable deep learning architectures to fuse the data from multiple modalities for improving the performance of related tasks.
   date: 
