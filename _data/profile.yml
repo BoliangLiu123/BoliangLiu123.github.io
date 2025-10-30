@@ -25,6 +25,9 @@ short_bio: >-
     I am currently leading an IoT and Smart Sensing Lab. I recently moved from the Honor Device Co., Ltd., Shenzhen where I worked as a chief engineer. 
     I was a Postdoctoral researcher at Shenzhen University, working with Prof. Kaishun Wu. I received my Ph.D. degree in Electronic Engineering at the School of Electronic Engineering and Computer Science, Queen Mary University of London in 2020 (supervised by Prof. Eliane Bodanese). 
   </p>
+  <p>
+    I am recruiting PostDocs (more than 35W/year) and Research Assistants (PhD or excellent master candidates) to join my research team. For prospective collaborators, please email me your CV and research plan. 每年招收湾大-深大联培硕士，湾大-哈工深联培博士若干
+  </p>
 
 portrait_url: /assets/images/photos/profile.jpg
 # portrait_caption: >-
@@ -53,16 +56,13 @@ experience:
   date: Feb. 2024 - Jul. 2024
 
 
-awards:
-- name: NeurIPS Scholar Award
-  date: 2024
-- name: Hong Kong PhD Fellowship
-  date: 2021
-- name: Outstanding Graduate of Software School, Tsinghua University 
-  date: 2020
-- name: Outstanding Bachelor Thesis Award, Fudan University
-  date: 2017
-- name: Outstanding Graduate of Shanghai, China
-  date: 2017
-- name: National Scholarship, China
-  date: 2015
+research:
+- name: Human activity recognition
+  data: identifying the specific movement or action of a person based on the integration of various sensor data and machine learning techniques.
+- name: Wireless sensing
+  data: monitoring conditions and changes of targets and environments via various wireless techniques including WiFi, sound, Radar, Lidar, etc.
+- name: Edge intelligence 
+  data: a combination of AI and Edge Computing that enables the deployment of machine learning algorithms to the edge device by using model compression, model partition, conditional computation, etc.
+- name: Multimodal fusion
+  data: exploring suitable deep learning architectures to fuse the data from multiple modalities for improving the performance of related tasks.
+
