@@ -58,11 +58,10 @@ experience:
 
 research:
 - name: Human activity recognition
-  data: identifying the specific movement or action of a person based on the integration of various sensor data and machine learning techniques.
+  date: 
 - name: Wireless sensing
-  data: monitoring conditions and changes of targets and environments via various wireless techniques including WiFi, sound, Radar, Lidar, etc.
+  date: 
 - name: Edge intelligence 
-  data: a combination of AI and Edge Computing that enables the deployment of machine learning algorithms to the edge device by using model compression, model partition, conditional computation, etc.
+  date: 
 - name: Multimodal fusion
-  data: exploring suitable deep learning architectures to fuse the data from multiple modalities for improving the performance of related tasks.
-
+  date: 
