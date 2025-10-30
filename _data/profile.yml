@@ -1,14 +1,14 @@
-primary_name: "Yao Lai"
+primary_name: "Fei Luo"
 secondary_name: ""
 navbar_name: ""
 
 positions:
-- logo: /assets/images/badges/hku.jpg  # Logo is optional
-  name: The University of Hong Kong
+- logo: /assets/images/badges/QM.jpg  # Logo is optional
+  name: Queen Mary University of London
 # - name: Position 2 without logo
 
 
-email: "ylai@cs.hku.hk"
+email: "luofei@gbu.edu.cn"
 cv_link: /assets/files/resume2025.pdf
 gscholar: 9Oxeo68AAAAJ
 github: laiyao1
@@ -21,10 +21,9 @@ linkedin: laiyao1
 
 short_bio: >-
   <p>
-    I am a Ph.D. candidate in <a href="https://cs.hku.hk">computer science department</a> at <a href="https://hku.hk">the University of Hong Kong</a> (HKU), also affiliated with <a href="https://mmlab.hk/">mmlab@HKU</a>, fortunately advised by Prof. <a href="http://luoping.me/">Ping Luo</a>. 
-    I am also honored to have the opportunity to work with the <a href="https://www.cerc.utexas.edu/utda/">UTDA</a> lab of <a href="https://www.utexas.edu/">The University of Texas at Austin</a> (UTAustin), advised by Prof. <a href="https://www.ece.utexas.edu/people/faculty/david-z-pan">David Z. Pan</a>.
-    Previously, I received my M.Eng. degree in the <a href="https://www.thss.tsinghua.edu.cn/">software school</a> of <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a> (THU) and B.Eng. degree in the <a href="https://sme.fudan.edu.cn/">microelectronics department</a> of <a href="https://www.fudan.edu.cn/en">Fudan University</a> (FDU). 
-    My research interests include AI for Electronic Design Automation (AI4EDA), AI for security and other possible applications.
+    I am an Assistant Professor at Computer Science, Great Bay University, and also a visiting scholar at The Hong Kong University of Science and Technology (Guangzhou). 
+    I am currently leading an IoT and Smart Sensing Lab. I recently moved from the Honor Device Co., Ltd., Shenzhen where I worked as a chief engineer. 
+    I was a Postdoctoral researcher at Shenzhen University, working with Prof. Kaishun Wu. I received my Ph.D. degree in Electronic Engineering at the School of Electronic Engineering and Computer Science, Queen Mary University of London in 2020 (supervised by Prof. Eliane Bodanese). 
   </p>
 
 portrait_url: /assets/images/photos/profile.jpg
