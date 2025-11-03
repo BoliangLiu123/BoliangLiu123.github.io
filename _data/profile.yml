@@ -10,7 +10,7 @@ positions:
 
 email: "luofei@gbu.edu.cn"
 cv_link: /assets/files/resume2025.pdf
-gscholar: 9Oxeo68AAAAJ
+gscholar: iqBK9QMAAAAJ&hl
 github: luofei8998
 # twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -37,24 +37,24 @@ education:
 - name: Queen Mary University of London
   logo: /assets/images/badges/QM.jpg
   position: Ph.D. in Computer Science
-  date: Sep. 2021 - Jul. 2025
+  date: Aug. 2016 - Mar. 2020
 
 - name: Wuhan University
   logo: /assets/images/badges/WHU.png
   position: M.Eng. in Software Engineering
-  date: Sep. 2017 - Jul. 2020
+  date: Sep. 2013 - Jun. 2016
 
 
 experience:
 - name: Great Bay University
   logo: /assets/images/badges/GBU.png
   position: Assistant Professor
-  date: Feb. 2024 - now
+  date: Mar. 2024 - now
 
 - name: Shenzhen University
   logo: /assets/images/badges/SZU.png
   position: Postdoctoral researcher
-  date: Sep. 2013 - Jul. 2017
+  date: Sep. 2020 - Jun. 2022
 
 research:
 - name: Human activity recognition "identifying the specific movement or action of a person based on the integration of various sensor data and machine learning techniques."
